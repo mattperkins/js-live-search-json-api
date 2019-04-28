@@ -1,26 +1,26 @@
 [
   {
-    "track": "lemon",
+    "title": "lemon",
     "album": "i am lemon"
   },
   {
-    "track": "lime",
+    "title": "lime",
     "album": "i am lemon"
   },
   {
-    "track": "peach",
+    "title": "peach",
     "album": "peachy"
   },
   {
-    "track": "plum",
+    "title": "plum",
     "album": "a plum"
   },
   {
-    "track": "strawberry",
+    "title": "strawberry",
     "album": "red"
   },
   {
-    "track": "melon",
+    "title": "melon",
     "album": "melon farmer"
   }
 ]
